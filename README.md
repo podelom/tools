@@ -1,2 +1,2 @@
-# admin_scripts
+# tools
 scipts for everyday tasks
